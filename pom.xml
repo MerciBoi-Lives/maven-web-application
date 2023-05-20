@@ -3,17 +3,17 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<artifactId>merciboihomepage</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1</version>
 	
-	<name>maven-web-application</name>
+	<name>merciboihomepage</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>MerciBoi Java Web Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<name>MerciBoi Systems Solutions</name>
+		<url>http://merciboi.link/</url>
 	</organization>
 
 	<properties>
@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>home</finalName>
 		
 		<plugins>
 			<plugin>
